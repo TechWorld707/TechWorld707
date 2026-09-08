@@ -62,5 +62,5 @@ Containerized ecommerce application deployed to a self-managed Kubernetes cluste
 
 I'm interested in **DevOps Engineer, Cloud Engineer, and Platform Engineer** opportunities.
 
-- LinkedIn: [H T Okafor](https://www.linkedin.com/in/h-t-okafor-024912384/)
+- LinkedIn: [H T Okafor](https://www.linkedin.com/in/h-t-okafor/)
 - Email: [hento77@yahoo.com](mailto:hento77@yahoo.com)
